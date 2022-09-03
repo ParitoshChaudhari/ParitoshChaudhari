@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"></p>
 
-   ## :wave: About Me 
+## :wave: About Me
 
 <!-- Name animation with changing text ⬇️ -->
 <p align="center">
@@ -15,15 +15,16 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ParitoshChaudhari?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> -->
 
 <!-- telegarm Code (Icon Aligiment) ⬇️ -->
+
 <a href="https://telegram.me/ParitoshChaudhari" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_telegram-1024.png" height="120px" width="120px" alt="Telegram" align="right"></a>
+
 <!-- LinkedIn Code (Icon Aligiment) ⬇️ -->
+
 <a href="https://www.linkedin.com/in/paritosh-chaudhari" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-1024.png" height="120px" width="120px" alt="Twitter" align="right"></a>
 
-🎓 Hey! I'm Paritosh, a 17 year Boy passionate about learning new technologies and making stuff. I code in Java. Apart from coding, I am pursuing a Diploma in Electrical Engineering.. 
+🎓 Hey! I'm Paritosh, a 17 year Boy passionate about learning new technologies and making stuff. I code in Java. Apart from coding, I am pursuing a Diploma in Electrical Engineering..
 
- 
-👩‍💻 Nowadays, I’m learning Andorid App Developmenet. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/ParitoshChaudhari/) and always up for quick coding brainstorming sessions! 
-
+👩‍💻 Nowadays, I’m learning Andorid App Developmenet. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/ParitoshChaudhari/) and always up for quick coding brainstorming sessions!
 
 <!-- ## 📘 My top open source projects
 
@@ -33,9 +34,7 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
 </p> -->
 
-
-
-<br> 
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -49,7 +48,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Andorid Studio](https://camo.githubusercontent.com/b47adcf9ec6ebda2472bfabf941e573d2ba360c45773c6526f445e5aec5872eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d3035313530433f7374796c653d666c61742d737175617265266c6f676f3d616e64726f6964)
-  ![IntelliJ Idea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&amp;logo=intellij-idea&amp;logoColor=white)
+  ![IntelliJ Idea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
@@ -62,12 +61,4 @@
 <br/>
     <a href="https://github.com/ParitoshChaudhari/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ParitoshChaudhari&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-[![ParitoshChaudhari statistics](images/userstats.svg)](https://github.com/ParitoshChaudhari/user-statistician)
-
 [![Paritosh Chaudhari github trophy](https://github-profile-trophy.vercel.app/?username=ParitoshChaudhari&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Skyline](https://github.com/ParitoshChaudhari/ParitoshChaudhari/blob/master/github-metrics.svg)
-
-
-
-
