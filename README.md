@@ -1,64 +1,123 @@
 <h1 align="center">Hey, I'm Paritosh Chaudhari <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 <h2 align="center">Changing the world one pixel at a time!</h2>
 
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"></p>
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-## :wave: About Me
+<!--Header Name-->
+*(Developer / Programmer)*
+<br /> 
 
-<!-- Name animation with changing text ⬇️ -->
-<p align="center">
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self-taught+Programer;Electrical+Engineer+By+Education;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+<!--Intro Start -->               
+<p align="left">Hello, I am Paritosh, a motivated computer engineering student on a mission to broaden my knowledge and skills in the ever-changing world of technology. I am currently studying my B.Tech degree and am really interested in learning Java, Data Structures and Algorithms (DSA), and the MERN stack for web development.
+
+I enjoy challenging myself and am excited to go on a DSA problem-solving journey. You can find me on several platforms, like GeeksforGeeks, LeetCode, and HackerRank, where I actively practice problem-solving.
+
 </p>
+<!--Intro End-->
 
-<!-- Github Followers Counter ⬇️ Uncomment it on Right time -->
-<!-- <a href="https://github.com/ParitoshChaudhari">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ParitoshChaudhari?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> -->
+<!--Profile Count Badge-->
+![](https://komarev.com/ghpvc/?username=ParitoshChaudhari)
 
-<!-- telegarm Code (Icon Aligiment) ⬇️ -->
+---
+<br />
 
-<a href="https://telegram.me/ParitoshChaudhari" target="_blank"><img src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_telegram-1024.png" height="120px" width="120px" alt="Telegram" align="right"></a>
-
-<!-- LinkedIn Code (Icon Aligiment) ⬇️ -->
-
-<a href="https://www.linkedin.com/in/paritosh-chaudhari" target="_blank"><img src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-1024.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-
-🎓 Hey! I'm Paritosh, a 17 year Boy passionate about learning new technologies and making stuff. I code in Java. Apart from coding, I am pursuing a Diploma in Electrical Engineering..
-
-👩‍💻 Nowadays, I’m learning Andorid App Developmenet. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/ParitoshChaudhari/) and always up for quick coding brainstorming sessions!
-
-<!-- ## 📘 My top open source projects
+<!--Languages and Tools Section-->       
+<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=html,css,js,java,md,mongo,git,vscode,androidstudio,bootstrap,github,idea&perline=10"  />
+</p>
+<br />
 
 
-<p align="left">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DenverCoder1&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats"></a>
-</p> -->
+<!--Trophies Section-->   
+<h2 align="center">🏆 Github Trophies 🏆</h2>
+<p align="center">
+  <a href="https://github.com/ParitoshChaudhari/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ParitoshChaudhari&row=2&column=4&margin-w=20&margin-h=20" alt="GitHub Trophies">
+  </a>
+</p>
+<br />
 
-<br>
+<!--Github stats Table--> 
+<h2 align="center">📊 Github Stats 📊</h2>
 
-## 🛠 &nbsp;Tech Stack
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/ParitoshChaudhari">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ParitoshChaudhari&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/ParitoshChaudhari">
+          <img align="center" src="https://streak-stats.demolab.com?user=ParitoshChaudhari&theme=nightowl" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/ParitoshChaudhari/Awesome-Dev-Portfolios">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=ParitoshChaudhari&repo=ecosense&theme=nightowl&show_owner=true" alt="Awesome-Dev-Portfolios" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/ParitoshChaudhari">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=ParitoshChaudhari&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
 
-- 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ParitoshChaudhari&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
 
-- ⚙️ &nbsp;
-  ![Git](https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974)
-  ![GitHub](https://camo.githubusercontent.com/85dc47a56a4e73ae7b6e64b3b4416785497e74219ae179ae8faaaca10d5a78d9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3138313731373f7374796c653d666c61742d737175617265266c6f676f3d676974687562)
 
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Andorid Studio](https://camo.githubusercontent.com/b47adcf9ec6ebda2472bfabf941e573d2ba360c45773c6526f445e5aec5872eb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d3035313530433f7374796c653d666c61742d737175617265266c6f676f3d616e64726f6964)
-  ![IntelliJ Idea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Paritosh Chaudhari Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=ParitoshChaudhari&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParitoshChaudhari&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
+
+
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+
+<a href="https://www.codechef.com/users/paritoshc26" target="_blank">
+<img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="paritoshc26 Codechef" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://codeforces.com/profile/ParitoshChaudhari" target="_blank">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="ParitoshChaudhari CodeForces" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://leetcode.com/ParitoshChaudhari/" target="_blank">
+<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="ParitoshChaudhari LeetCode" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/paritosh-chaudhari/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ParitoshChaudhari Linkedin" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://twitter.com/chaudhari9571" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="chaudhari9571 X(Twitter)" style="margin-bottom: 5px;" />
+</a>
+
+</div>
 <br/>
-    <a href="https://github.com/ParitoshChaudhari/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ParitoshChaudhari&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-[![Paritosh Chaudhari github trophy](https://github-profile-trophy.vercel.app/?username=ParitoshChaudhari&row=1)](https://github.com/ryo-ma/github-profile-trophy)
