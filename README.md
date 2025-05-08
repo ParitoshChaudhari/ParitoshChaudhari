@@ -27,7 +27,7 @@ I enjoy challenging myself and am excited to go on a DSA problem-solving journey
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=html,css,js,java,md,mongo,git,vscode,androidstudio,bootstrap,github,idea&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=html,css,js,java,md,mongo,tailwind,nodejs,bootstrap,express,maven,mysql,postman,vercel,github,idea,docker,git,vscode,androidstudio,&perline=10"  />
 </p>
 <br />
 
@@ -119,5 +119,19 @@ I enjoy challenging myself and am excited to go on a DSA problem-solving journey
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="chaudhari9571 X(Twitter)" style="margin-bottom: 5px;" />
 </a>
 
+<a href="https://www.hackerrank.com/profile/chaudhari9571" target="_blank">
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="chaudhari9571 Hackerrank" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.hackerearth.com/@ParitoshChaudhari/" target="_blank">
+<img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="ParitoshChaudhari Hackerearth" style="margin-bottom: 5px;" />
+</a>
+
+
+
 </div>
 <br/>
+
+
+<!-- Todo -->
+<!-- Adding New Skills (react,selenium,redis,jenkins) -->
